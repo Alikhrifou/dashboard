@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+border: none !important;;
+}
+.ReactFlagsSelect-module_selectOptions__3LNBJ{
+  border: none !important;
+  /* box-shadow: 1px 1px; */
+  border-radius: 10%;
+}
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+  
+}
+.scrollbar-hidden {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
